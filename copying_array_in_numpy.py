@@ -20,7 +20,7 @@ print("address of arr1:",id(arr1),"\naddress of arr2:",id(arr2))
 #Deep COpy
 print("Deep COpy")
 arr1=array([1,2,4,35,8])
-
+print('Deep Copy')
 
 
 arr2 = arr1.copy() #copy method is used for shallow copy
